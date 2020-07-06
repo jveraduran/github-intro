@@ -1,4 +1,4 @@
-# Introducción a GitHub
+# Introducción a GitHub - Tag 1.0.0
 
 ## Pre-requisitos
 
