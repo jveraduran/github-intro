@@ -27,7 +27,8 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 ¿Qué es Github?
 ###############
 
-**Creando nuestro primer repositorio**
+Creando nuestro primer repositorio
+##################################
 
 1. Crear un repositorio nuevo en Github llamado **Github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a Github.
 
