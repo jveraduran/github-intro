@@ -19,17 +19,17 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
 **Para MAC con brew**
 
-   .. code-block:: 
+   .. code-block:: shell
       
       brew install git
 
 
-¿Qué es GitHub?
+¿Qué es Github?
 ###############
 
 **Creando nuestro primer repositorio**
 
-1. Crear un repositorio nuevo en GitHub llamado **github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a GitHub.
+1. Crear un repositorio nuevo en Github llamado **Github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a Github.
 
    .. image:: ../images/repo-create.png
 
@@ -39,7 +39,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
     
    .. code-block:: shell
       
-      mkdir github-intro-XXX
+      mkdir Github-intro-XXX
 
 |
 
@@ -47,7 +47,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
    .. code-block::  shell
       
-      cd github-intro-XXX
+      cd Github-intro-XXX
 
 |
 
@@ -97,7 +97,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
 |
 
-8. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic para copiar la URL del repositorio remoto.
+8. En la parte superior de la página de Configuración rápida del repositorio de Github, haz clic para copiar la URL del repositorio remoto.
 
    .. image:: ../images/copy-remote-repository-url-quick-setup.png
 
@@ -114,7 +114,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
 |
 
-10. Sube los cambios en tu repositorio local a GitHub.
+10. Sube los cambios en tu repositorio local a Github.
 
    .. code-block:: shell
       
