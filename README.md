@@ -1,4 +1,4 @@
-# Introducción a GitHub - Prueba
+# Introducción a GitHub
 
 ## Pre-requisitos
 
