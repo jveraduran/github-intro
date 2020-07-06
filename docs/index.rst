@@ -38,11 +38,9 @@ Creando nuestro primer repositorio
 
    .. image:: ../images/repo-create.png
 
-2. Abre tu terminal
-
 |
 
-3. Ejecuta el siguiente comando (XXX serán las iniciales de tu primer nombre y tus dos apellidos)
+2. Ejecuta el siguiente comando en tu terminal (XXX serán las iniciales de tu primer nombre y tus dos apellidos)
     
    .. code-block:: shell
       
@@ -50,7 +48,7 @@ Creando nuestro primer repositorio
 
 |
 
-4. Cambiar al directorio de trabajo que acabas de crear.
+3. Cambiar al directorio de trabajo que acabas de crear.
 
    .. code-block::  shell
       
@@ -58,9 +56,29 @@ Creando nuestro primer repositorio
 
 |
 
-5. Inicializar el directorio local como un repositorio de Git.
+4. Inicializar el directorio local como un repositorio de Git.
 
    .. code-block:: shell
       
       git init
+
+|
+
+5. Crearemos un archivo llamado **README.md** como primer archivo inicial.
+   
+   - Para WINDOWS
+   
+      .. code-block::  shell
+         
+         type NUL > README.md
+   
+   - Para MAC
+   
+      .. code-block::  shell
+         
+         touch README.md
+
+|
+
+
 
