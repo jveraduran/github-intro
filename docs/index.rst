@@ -19,9 +19,9 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
 **Para MAC con brew**
 
-.. code-block:: 
-   
-   brew install git
+   .. code-block:: 
+      
+      brew install git
 
 
 ¿Qué es GitHub?
