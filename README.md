@@ -1,4 +1,4 @@
-# Introducción a GitHub - A1
+# Introducción a GitHub - Aa
 
 ## Pre-requisitos
 
