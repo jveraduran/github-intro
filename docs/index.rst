@@ -91,5 +91,44 @@ Creando nuestro primer repositorio
 
 |
 
+7. Confirmar los archivos que has preparado en tu repositorio local.
+
+   .. code-block:: shell
+      
+      git commit -m "First commit"
+   
+   .. note::
+      Commits the tracked changes and prepares them to be pushed to a remote repository. Para eliminar esta confirmación y modificar el archivo, usa 'git reset --soft HEAD~1' y confirma y agrega nuevamente el archivo.
+
+|
+
+8. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic para copiar la URL del repositorio remoto.
+
+   .. image:: ../images/copy-remote-repository-url-quick-setup.png
+
+|
+
+9. En Terminal, agrega la URL para el repositorio remoto donde se subirá tu repositorio local.
+
+   .. code-block:: shell
+      
+      git remote add origin remote repository URL
+   
+   .. note::
+      Si deseamos verificar la nueva URL seteada, ejecutamos 'git remote -v'
+
+|
+
+10. Sube los cambios en tu repositorio local a GitHub.
+
+   .. code-block:: shell
+      
+      git push -u origin master
+   
+   .. note::
+      Pushes the changes in your local repository up to the remote repository you specified as the origin
+
+|
+
 
 
