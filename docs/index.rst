@@ -1,8 +1,12 @@
-# Introducción a GitHub
+*********************
+Introducción a GitHub
+*********************
 
-## Pre-requisitos
+Pre-requisitos
+##############
 
-### Visual Studio Code (Opcional)
+Visual Studio Code (Opcional)
+*****************************
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
