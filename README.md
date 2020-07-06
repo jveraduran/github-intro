@@ -26,7 +26,7 @@ brew install git
 
 1. Crear un repositorio nuevo en GitHub llamado **github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a GitHub.
 
-    ![Ceate-Repo](/images/repo-create.png)
+    ![Ceate](/images/repo-create.png?raw=true)
 
 <br />
 
