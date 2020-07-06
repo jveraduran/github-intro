@@ -23,9 +23,22 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
       
       brew install git
 
+¿Qué es Git?
+############
 
-¿Qué es Github?
-###############
+Antes de continuar, debemos entender a Git como el corazón de GitHub. Git es un sistema de control de versiones desarrollado por Linus Torvalds (el hombre que creó Linux).
+
+
+¿Qué es un sistema de control de versiones?
+###########################################
+
+Cuando los desarrolladores hacen un nuevo proyecto, siempre continúan haciéndole modificaciones al código. Incluso después de la puesta en marcha de los proyectos, todavía necesitan actualizar las versiones, corregir errores, agregar nuevas funciones, etc.
+
+El sistema de control de versiones ayuda a registrar los cambios realizados al código. Aún más, registra quién realizó los cambios y puede restaurar el código borrado o modificado.
+
+No hay códigos sobrescritos ya que Git guarda varias copias en el repositorio. Si estás interesado en Git, puedes aprender más sobre Git aquí.
+
+|
 
 Creando nuestro primer repositorio
 ##################################
