@@ -4,6 +4,9 @@
    contain the root `toctree` directive.
 
 Introducción a Github
-==================================================
+=====================
+
+Pre-requisitos
+##############
 
 

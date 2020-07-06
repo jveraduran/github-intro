@@ -1,6 +1,0 @@
-Authors
--------
-
-* Javier Vera
-
-
