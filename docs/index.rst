@@ -15,8 +15,6 @@ Descarga la version para cualquier sistema desde este Link `Visual Studio Code <
 
 **Instalar Git**
 
-Todo sistema
-
 Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm.com/downloads>`_
 
 **Para MAC con brew**
