@@ -85,9 +85,9 @@ brew install git
 
 <br />
 
-9. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic en ![Clone-Icon](/images/clone-icon.png) para copiar la URL del repositorio remoto.
+9. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic en ![Clone-Icon](/images/clone-icon.png?raw=true) para copiar la URL del repositorio remoto.
 
-    ![Copy-Repo](/images/copy-remote-repository-url-quick-setup.png)
+    ![Copy-Repo](/images/copy-remote-repository-url-quick-setup.png?raw=true)
 
 <br />
 
