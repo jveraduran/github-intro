@@ -80,5 +80,16 @@ Creando nuestro primer repositorio
 
 |
 
+6. Agregar los archivos a tu nuevo repositorio local. Esto representa la primera confirmación.
+
+   .. code-block:: shell
+      
+      git add .
+   
+   .. note::
+      Agrega el archivo en el repositorio local y lo presenta para la confirmación. Para deshacer un archivo, usa 'git reset HEAD YOUR-FILE'.
+
+|
+
 
 
