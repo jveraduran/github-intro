@@ -40,6 +40,7 @@ Creando nuestro primer repositorio
 
 2. Abre tu terminal
 
+|
 
 3. Ejecuta el siguiente comando (XXX serán las iniciales de tu primer nombre y tus dos apellidos)
     
@@ -47,11 +48,15 @@ Creando nuestro primer repositorio
    
       mkdir github-intro-XXX
 
+|
+
 4. Cambiar al directorio de trabajo que acabas de crear.
 
    .. code-block:: 
    
       cd github-intro-XXX
+
+|
 
 5. Inicializar el directorio local como un repositorio de Git.
 
