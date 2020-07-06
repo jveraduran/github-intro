@@ -26,7 +26,7 @@ brew install git
 
 1. Crear un repositorio nuevo en GitHub llamado **github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a GitHub.
 
-    ![Ceate-Repo](images/repo-create.png)
+    ![Ceate-Repo](/images/repo-create.png)
 
 <br />
 
@@ -85,9 +85,9 @@ brew install git
 
 <br />
 
-9. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic en ![Clone-Icon](images/clone-icon.png) para copiar la URL del repositorio remoto.
+9. En la parte superior de la página de Configuración rápida del repositorio de GitHub, haz clic en ![Clone-Icon](/images/clone-icon.png) para copiar la URL del repositorio remoto.
 
-    ![Copy-Repo](images/copy-remote-repository-url-quick-setup.png)
+    ![Copy-Repo](/images/copy-remote-repository-url-quick-setup.png)
 
 <br />
 
