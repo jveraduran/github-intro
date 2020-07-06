@@ -9,19 +9,17 @@ Introducción a Github
 Pre-requisitos
 ##############
 
-Instalando Visual Studio
-************************
+**Instalando Visual Studio**
+
 Descarga la version para cualquier sistema desde este Link `Visual Studio Code <https://code.visualstudio.com>`_
 
-Instalar Git
-############
+**Instalar Git**
 
 Todo sistema
-************
 
 Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm.com/downloads>`_
 
-* Para MAC con brew
+**Para MAC con brew**
 
 .. code-block:: 
    
@@ -31,8 +29,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 ¿Qué es GitHub?
 ###############
 
-Creando nuestro primer repositorio
-**********************************
+**Creando nuestro primer repositorio**
 
 1. Crear un repositorio nuevo en GitHub llamado **github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a GitHub.
 
