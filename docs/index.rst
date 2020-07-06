@@ -28,6 +28,7 @@ Descarga la version para cualquier sistema desde este Link `GIT <https://git-scm
 
 Antes de continuar, debemos entender a Git como el corazón de GitHub. Git es un sistema de control de versiones desarrollado por Linus Torvalds (el hombre que creó Linux).
 
+|
 
 ¿Qué es un sistema de control de versiones?
 ###########################################
