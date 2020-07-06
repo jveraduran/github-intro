@@ -44,7 +44,7 @@ No hay códigos sobrescritos ya que Git guarda varias copias en el repositorio. 
 Creando nuestro primer repositorio
 ##################################
 
-1. Crear un repositorio nuevo en Github llamado **Github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a Github.
+1. Crear un repositorio nuevo en Github llamado **github-intro-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos). Para evitar errores, no inicialices el nuevo repositorio con archivos README licencia o gitingnore. Puedes agregar estos archivos después de que tu proyecto se haya subido a Github.
 
    .. image:: ../images/repo-create.png
 
@@ -54,7 +54,7 @@ Creando nuestro primer repositorio
     
    .. code-block:: shell
       
-      mkdir Github-intro-XXX
+      mkdir github-intro-XXX
 
 |
 
@@ -62,7 +62,7 @@ Creando nuestro primer repositorio
 
    .. code-block::  shell
       
-      cd Github-intro-XXX
+      cd github-intro-XXX
 
 |
 
@@ -139,6 +139,66 @@ Creando nuestro primer repositorio
       Pushes the changes in your local repository up to the remote repository you specified as the origin
 
 |
+
+Realizando nuestro primer Pull Request
+######################################
+
+Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario aprendegit-user1 le enviará la petición a aalbagarcia para que este último incorpore los commits que tiene en su fork.
+Para realizar nuestro primer pull request, ejecutaremos las siguientes instrucciones:
+
+|
+
+1. Clonamos el repositorio de Github `Link <https://github.com/smu-chile/github-demo.git>`_
+
+   .. code-block:: shell
+         
+         git clone https://github.com/smu-chile/github-demo.git
+
+|
+
+2. Crearemos una nueva rama en este repositorio con la siguiente nomenclatura **feature-XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos)
+
+   .. code-block:: shell
+         
+         git checkout -b feature-XXX
+   .. note::
+      Create a new branch named feature-XXX and start it at <start_point>.
+
+|
+
+3. Editaremos el archivo **README.md** agregando **XXX** (XXX serán las iniciales de tu primer nombre y tus dos apellidos) + Un Comentario.
+
+|
+
+4. Ahora ejecutaremos el comando git `add <https://git-scm.com/docs/git-add>`_
+
+   .. code-block:: shell
+         
+         git add -A
+   .. note::
+      Update the index not only where the working tree has a file matching <pathspec> but also where the index already has an entry. This adds, modifies, and removes index entries to match the working tree.
+   
+   .. note::
+      Otra opción seria agregar solo el archivo editado mediante el comando git add **FILENAME**
+
+|
+
+5. Ahora ejecutaremos el comando git `commit <https://git-scm.com/docs/git-commit>`_
+
+   .. code-block:: shell
+         
+         git commit -m "Comentario"
+   
+|
+
+6. Ahora ejecutaremos el comando git `push <https://git-scm.com/docs/git-push>`_
+
+   .. code-block:: shell
+         
+         git push --set-upstream origin feature-XXX
+
+|
+
 
 
 
