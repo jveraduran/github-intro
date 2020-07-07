@@ -217,6 +217,13 @@ Haz clic y serás llevado a esta pantalla
 
 Abra una solicitud de **Pull Request** haciendo clic en el botón Crear **Pull Request**. Esto permite que los encargados del repositorio revisen su contribución. Desde aquí, pueden fusionarlo si es bueno, o pueden pedirle que haga algunos cambios.
 
+|
+
+Realizando nuestro primer Merge
+###############################
+
+|
+
 .. image:: ../images/pr-3.png
 
 |
