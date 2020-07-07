@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # Introducción a GitHub
 
-=======
-# Introducción a GitHub - Fetch
->>>>>>> origin/master
 ## Pre-requisitos
 
 ### Visual Studio Code (Opcional)
