@@ -222,8 +222,6 @@ Abra una solicitud de **Pull Request** haciendo clic en el botón Crear **Pull R
 Realizando nuestro primer Merge
 ###############################
 
-|
-
 .. image:: ../images/pr-3.png
 
 |
