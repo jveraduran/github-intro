@@ -199,6 +199,26 @@ Para realizar nuestro primer pull request, ejecutaremos las siguientes instrucci
 
 |
 
+7. Para realizar el Pull Request deberemos ejecutar la siguiente secuencia en Github UI ( Mas informacion `AQUI <https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests>`_)
+
+.. image:: ../images/pr-1.png
+
+|
+
+.. image:: ../images/pr-2.png
+
+|
+
+.. image:: ../images/pr-3.png
+
+|
+
+.. image:: ../images/pr-4.png
+
+|
+
+.. image:: ../images/pr-5.png
+
 
 
 
