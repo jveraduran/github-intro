@@ -1,4 +1,4 @@
-# Introducción a GitHub - Develop
+# Introducción a GitHub
 
 ## Pre-requisitos
 
