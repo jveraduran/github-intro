@@ -1,4 +1,4 @@
-# Introducción a GitHub - Cesar El Ninja
+# Introducción a GitHub - Cesar El Ninja de Carton
 
 ## Pre-requisitos
 
