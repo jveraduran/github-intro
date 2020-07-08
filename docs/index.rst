@@ -122,7 +122,7 @@ Creando nuestro primer repositorio
 
    .. code-block:: shell
       
-      git remote add origin remote repository URL
+      git remote add origin [remote repository URL]
    
    .. note::
       Si deseamos verificar la nueva URL seteada, ejecutamos 'git remote -v'
